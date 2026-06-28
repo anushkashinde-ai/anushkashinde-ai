@@ -1,6 +1,6 @@
 Hi there, I'm Anushka Shinde 👋
 <p align="center">
-  <img src="./Anushka_Banner1.png" alt="Anushka Shinde Banner" width="100%">
+  <img src="./Profile_Anushka.png" alt="Anushka Shinde Banner" width="100%">
 </p>
 
 <h3 align="center">💻 Computer Engineering Student | MERN Stack Developer | AWS Cloud Learner</h3>
