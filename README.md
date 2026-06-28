@@ -26,12 +26,14 @@ Hi there, I'm Anushka Shinde 👋
 - Web Development Internship
 - Open Source Contributions
 
-📫 Reach Me
 
-Email: anushkashinde568@gmail.com
 
-LinkedIn:
-https://www.linkedin.com/in/anushka-shinde-264a8b291/
+📫 How to reach me **anushkashinde568@gmail.com**
+
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+<a href="https://linkedin.com/in/anushka-shinde-264a8b291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anushka-shinde-264a8b291/" height="30" width="40" /></a>
+
 
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
